@@ -1,5 +1,7 @@
 # Credit_Card_Default_Prediction_Capstone-Project_III
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients
+![image](https://user-images.githubusercontent.com/111486947/211294609-dd314e04-dd21-49ed-8f34-7a4c9a2d56e4.png)
+
 ## Problem Statement:
 The contents of the data came from a country called Taiwan. The purpose of this project is to conduct quantitative analysis on credit card default risk by applying 6 classification machine learning models. Despite machine learning and big data have been adopted by the banking industry, the current applications are mainly focused on credit score predicting. Heavily relying on credit scores could cause banks to miss valuable customers who are new immigrants with repaying power but little to no credit history. This analysis is a machine learning application on default risk itself and the predictor features do not include credit score or credit history. Due to the regulatory constraints that banks are facing. 
 The problem statement was to build a machine learning model that could predict the customer who default in upcoming months. 
